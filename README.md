@@ -1,7 +1,7 @@
 # SalleMachine
 Video :
-https://github.com/ImaneBoutata/SallMachine/assets/101391827/a9d2b431-606a-4998-834b-c7f1ce3e5c48
 
+https://github.com/ImaneBoutata/SallMachine/assets/101391827/3788d244-74af-4cca-947a-9916dd511524
 
 screenshots : 
 
